@@ -1,0 +1,30 @@
+.card {
+    margin-left: 22px;
+}
+
+
+.row {
+    margin-top: 22px;
+}
+
+.h1h1 {
+    font-family: 'Rebond';
+    font-weight: lighter;
+}
+
+
+.btn-btn-primary {
+    height: 50px;
+    width: 165px;
+    background-color: #0d85cf;
+    color: white;
+    border-radius: 9px;
+    font-family: 'Rebond';
+    font-size: 17px;
+
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,34 @@
+.h1h1h1 {
+    font-family: 20x;
+    font-family: "rebond";
+    font-weight: 400;
+}
+
+.enoeno{
+    font-family: "rebond";
+    font-weight: 400;
+    
+}
+.row{
+    row-gap: 20px;
+}
+
+
+.col-121{
+    display: flex;
+    justify-content: end;
+}
+
+
+.form-input12{
+    height: 42px;
+    font-size: 14px;
+    width: 300px;
+    border-radius: 6px;
+    font-family: "rebond";
+    margin-left: 2px;
+    margin-top: 10px;
+    border-color: rgb(190, 189, 189);
+    color: rgb(150, 150, 150);
+    padding-left: 5px;
+}
